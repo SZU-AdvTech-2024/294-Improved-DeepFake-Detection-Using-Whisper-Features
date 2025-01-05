@@ -1,0 +1,9 @@
+@inproceedings{REPO294,
+    author = "Kawa, Piotr and Plata, Marcin and Czuba, Michał and Szymański, Piotr and Syga, Piotr",
+    booktitle = "INTERSPEECH 2023",
+    doi = "10.21437/Interspeech.2023-1537",
+    issn = "2958-1796",
+    pages = "4009--4013",
+    title = "{Improved DeepFake Detection Using Whisper Features}",
+    year = "2023"
+}
